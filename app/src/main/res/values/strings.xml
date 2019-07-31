@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DTS Kuliner Makassar</string>
+    <string name="title">Nama Tempat Kuliner</string>
+    <string name="description">Deskripsi</string>
+    <string name="url_image">URL Gambar</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="coor_latitude">Koordinat Latitude</string>
+    <string name="coor_longitude">Koordinat Longitude</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
