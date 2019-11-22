@@ -1,4 +1,4 @@
-**How use**
+## How use
 - this a simple SQLite+LBS to show location on your activity Google MAPS "Kuliner Makassar", use a Latitude and Longitude to know a location.
 - for use a  Google Maps on your app, you have to create a project on [Console Developer Google](https://console.developers.google.com) and get API Key.
 - or go to your google_maps_api.xml and follow ur url inside, example :
@@ -6,11 +6,28 @@
     and create project/choose your project and generate key
 - and replace on ```<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaS****YOUR API KEY</string>```
 
-**DEMO**
+## About App  
+---
 
-![Screenshot1](https://gitlab.com/im-o/my-image/raw/master/0.jpeg)
-![Screenshot2](https://gitlab.com/im-o/my-image/raw/master/1.jpeg)
-![Screenshot2](https://gitlab.com/im-o/my-image/raw/master/5.jpeg)
-![Screenshot3](https://gitlab.com/im-o/my-image/raw/master/2.jpeg)
-![Screenshot4](https://gitlab.com/im-o/my-image/raw/master/3.jpeg)
-![Screenshot5](https://gitlab.com/im-o/my-image/raw/master/4.jpeg)
+<img src="https://gitlab.com/im-o/my-image/raw/master/0.jpeg" width="60%" height="60%">
+
+
+---
+
+<img src="https://gitlab.com/im-o/my-image/raw/master/1.jpeg" width="60%" height="60%">
+
+---
+
+<img src="https://gitlab.com/im-o/my-image/raw/master/5.jpeg" width="60%" height="60%">
+
+---
+
+<img src="https://gitlab.com/im-o/my-image/raw/master/2.jpeg" width="60%" height="60%">
+
+---
+
+<img src="https://gitlab.com/im-o/my-image/raw/master/3.jpeg" width="60%" height="60%">
+
+---
+
+<img src="https://gitlab.com/im-o/my-image/raw/master/4.jpeg" width="60%" height="60%">
